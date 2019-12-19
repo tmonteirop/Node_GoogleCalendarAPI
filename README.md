@@ -1,7 +1,7 @@
-# Node_GoogleCalendarAPI
-## Node API
-Litle base for create, read, update and delete single events in Google Calendar.
-## Links
+# Node Google Calendar API
+This is a litle base of Node api for create, read, update and delete single events in Google Calendar.
+
+## Links for help
 ###### Scope
 https://developers.google.com/calendar/auth
 ###### Google Calendar API V3
